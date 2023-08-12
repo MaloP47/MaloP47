@@ -1,8 +1,4 @@
-[![AM I DREAMING? - DEEKAYKWON](images/output.gif)](https://deekaykwon.com/deekay)
-
-❤️ Deekay's artwork !
-
-
+[![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
 ### Hi there 👋
 
