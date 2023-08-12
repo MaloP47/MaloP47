@@ -1,6 +1,6 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-### Hi there 👋
+```### Hi there 👋
 
 - 🔭 I’m currently working on ... push_swap
 - 🌱 I’m currently learning ... C
@@ -9,7 +9,7 @@
 - 💬 Ask me about ... the 42 junior entreprise
 - 📫 How to reach me: ... come find me in Paul's clusters
 - ⚡ Fun fact: ... I'm older than you think!
-
+```
 # 👋 Hello and welcome to my GitHub profile!
 
 ## About me :
@@ -18,7 +18,7 @@ I'm currently a student at 42 Paris, where I'm diving into the fascinating world
 
 🎓 My academic background also includes a degree in law from Université Jean Moulin (Lyon III), providing me with a strong foundation in law and political science.
 
-💼 Prior to venturing into the tech world, I spent 6 years at Burberry, where I climbed the ranks to become a Department Sales Manager. I was recognized as EMEIA top talent and played a key role in the reopening of flagship stores in Paris and London.
+💼 Prior to venturing into the tech world, I spent 6 years at [Burberry](https://burberry.com), where I climbed the ranks to become a Department Sales Manager. I was recognized as EMEIA top talent and played a key role in the reopening of flagship stores in Paris and London.
 
 🏈 Outside of the professional realm, I have a passion for American football, having played for over 7 years with [Flash La Courneuve](https://www.flashfootball.org/), participating in several national elite finals and semi-finals, and European Football League in 2015. 🏒 Continuing my sports career, I now play in a national french recreational hockey league. 
 
