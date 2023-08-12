@@ -12,8 +12,7 @@
 -->
 ## 👋 Hello and welcome to my GitHub profile!
 
-### About me :       <a href="https://www.linkedin.com/in/mallory-peulet/">  <img src="https://github.com/MaloP47/MaloP47/blob/main/images/logo%20linkedin.jpg" alt="LinkedIn" width="20" height="20" />
-</a>
+### About me :       
  
 I'm currently a student at 42 Paris, where I'm diving into the fascinating world of computer technology and information systems. Alongside my studies, I serve as the Commercial Manager for the school's Junior Enterprise, [Junior 42 Paris](https://junior42.com/), where I apply my skills in management, coaching, and customer service.
 
