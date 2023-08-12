@@ -1,6 +1,6 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-```### Hi there 👋
+<!-- ### Hi there 👋
 
 - 🔭 I’m currently working on ... push_swap
 - 🌱 I’m currently learning ... C
@@ -9,7 +9,7 @@
 - 💬 Ask me about ... the 42 junior entreprise
 - 📫 How to reach me: ... come find me in Paul's clusters
 - ⚡ Fun fact: ... I'm older than you think!
-```
+-->
 # 👋 Hello and welcome to my GitHub profile!
 
 ## About me :
