@@ -35,9 +35,9 @@ School projects I'm working on :
 -->
 ##
 
-## 👋 Hello and welcome to my GitHub profile!
+### 👋 Hello and welcome to my GitHub profile!
 
-### About me :       
+#### About me :       
  
 I'm currently a student at [42 Paris](https://42.fr/en/homepage/), where I'm diving into the fascinating world of computer technology and information systems. Alongside my studies, I serve as the Commercial Manager for the school's Junior Enterprise, [Junior 42 Paris](https://junior42.com/), where I apply my skills in management, coaching, and customer service.
 
