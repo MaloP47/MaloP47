@@ -1,12 +1,27 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-School project I completed : 
+#### School project I completed : 
 
 <div align="center">
 
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="75" height="75"/></a>
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="100" height="100"/></a>
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="125" height="125"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png" alt="42 badge born2beroot" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png" alt="42 badge ft_printf" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png" alt="42 badge get_next_line" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/fract-ol"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png" alt="42 badge fract-ol" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
+
+</div>
+
+#### School projects I'm working on :
+
+<div align="center">
+
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapn.png" alt="42 badge push_swap" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/philosophersn.png" alt="42 badge philosopher" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
+
+</div>
 
 ---
 
