@@ -1,6 +1,12 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-School projects I already completed : 
+<div align="center">
+
+## 👋 Hello and welcome to my GitHub profile!
+
+</div>
+
+### School projects I already completed : 
 
 <div align="center">
 
@@ -13,11 +19,11 @@ School projects I already completed :
 
 </div>
 
-School projects I'm working on :
+### School projects I'm working on :
 
 <div align="center">
 
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapn.png" alt="42 badge push_swap" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapn.png" alt="42 badge push_swap" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/philosophersn.png" alt="42 badge philosopher" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
 
@@ -33,9 +39,8 @@ School projects I'm working on :
 - 📫 How to reach me: ... come find me in Paul's clusters
 - ⚡ Fun fact: ... I'm older than you think!
 -->
-👋 Hello and welcome to my GitHub profile!
 
-About me :       
+### About me :       
  
 I'm currently a student at [42 Paris](https://42.fr/en/homepage/), where I'm diving into the fascinating world of computer technology and information systems. Alongside my studies, I serve as the Commercial Manager for the school's Junior Enterprise, [Junior 42 Paris](https://junior42.com/), where I apply my skills in management, coaching, and customer service.
 
