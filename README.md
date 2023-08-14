@@ -4,13 +4,12 @@ School project I completed :
 
 <div align="center">
 
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
-<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="50" height="50"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="50" height="50"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="50" height="50"/></a>
 
 ---
 
-[]
 <!-- ### Hi there 👋
 
 - 🔭 I’m currently working on ... push_swap
