@@ -1,6 +1,6 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-School project I completed : 
+School projects I already completed : 
 
 <div align="center">
 
@@ -33,11 +33,9 @@ School projects I'm working on :
 - 📫 How to reach me: ... come find me in Paul's clusters
 - ⚡ Fun fact: ... I'm older than you think!
 -->
-##
+👋 Hello and welcome to my GitHub profile!
 
-### 👋 Hello and welcome to my GitHub profile!
-
-#### About me :       
+About me :       
  
 I'm currently a student at [42 Paris](https://42.fr/en/homepage/), where I'm diving into the fascinating world of computer technology and information systems. Alongside my studies, I serve as the Commercial Manager for the school's Junior Enterprise, [Junior 42 Paris](https://junior42.com/), where I apply my skills in management, coaching, and customer service.
 
