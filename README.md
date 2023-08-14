@@ -1,6 +1,6 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
-#### School project I completed : 
+## School project I completed : 
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 </div>
 
-#### School projects I'm working on :
+## School projects I'm working on :
 
 <div align="center">
 
@@ -22,13 +22,6 @@
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
 
 </div>
-
-***
-
-___
-
-
----
 
 <!-- ### Hi there 👋
 
