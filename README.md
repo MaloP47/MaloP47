@@ -1,5 +1,16 @@
 [![42 cluster](https://github.com/MaloP47/MaloP47/blob/main/images/42bis.jpg)](https://42.fr/en/homepage/)
 
+School project I completed : 
+
+<div align="center">
+
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="200" height="100"/></a>
+
+---
+
+[]
 <!-- ### Hi there 👋
 
 - 🔭 I’m currently working on ... push_swap
