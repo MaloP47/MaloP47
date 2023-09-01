@@ -10,16 +10,19 @@
 
 <div align="center">
 
-- [![Libft](https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png){: width="90" height="90"}](https://github.com/MaloP47/libft)
-  ![Born2BeRoot](https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png){: width="90" height="90"}
-  ![ft_printf](https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png){: width="90" height="90"}
-  ![get_next_line](https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png){: width="90" height="90"}
-  [![Fract-ol](https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png){: width="90" height="90"}](https://github.com/MaloP47/fract-ol)
-  [![Minitalk](https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png){: width="90" height="90"}](https://github.com/MaloP47/minitalk)
+<!-- First Row -->
+<a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png" alt="42 badge born2beroot" width="90" height="90"/>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png" alt="42 badge ft_printf" width="90" height="90"/>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png" alt="42 badge get_next_line" width="90" height="90"/>
+<a href="https://github.com/MaloP47/fract-ol"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png" alt="42 badge fract-ol" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
 
-<br>
+<!-- Spacer to create a new line -->
+<br clear="left">
 
-- [![push_swap](https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png){: width="90" height="90"}](https://github.com/MaloP47/push_swap)
+<!-- Second Row -->
+<a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png" alt="42 badge push_swap" width="90" height="90"/></a>
 
 </div>
 
