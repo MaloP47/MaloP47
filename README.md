@@ -16,6 +16,9 @@
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png" alt="42 badge get_next_line" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/fract-ol"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png" alt="42 badge fract-ol" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
+
+</div>
+
 <a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png" alt="42 badge push_swap" width="90" height="90"/></a>
 
 </div>
