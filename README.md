@@ -16,18 +16,13 @@
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png" alt="42 badge get_next_line" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/fract-ol"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png" alt="42 badge fract-ol" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
-
-<div align="left">
-
 <a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png" alt="42 badge push_swap" width="90" height="90"/></a>
-
-</div>
 
 </div>
 
 ### School projects I'm working on :
 
-<div align="center">
+<div align="left">
 
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/philosophersn.png" alt="42 badge philosopher" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
