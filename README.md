@@ -23,6 +23,8 @@
 
 </div>
 
+</div>
+
 ### School projects I'm working on :
 
 <div align="center">
