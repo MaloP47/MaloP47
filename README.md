@@ -10,16 +10,16 @@
 
 <div align="center">
 
-- [![Libft](https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png)](https://github.com/MaloP47/libft)
-  ![Born2BeRoot](https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png)
-  ![ft_printf](https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png)
-  ![get_next_line](https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png)
-  [![Fract-ol](https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png)](https://github.com/MaloP47/fract-ol)
-  [![Minitalk](https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png)](https://github.com/MaloP47/minitalk)
+- [![Libft](https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png){: width="90" height="90"}](https://github.com/MaloP47/libft)
+  ![Born2BeRoot](https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png){: width="90" height="90"}
+  ![ft_printf](https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png){: width="90" height="90"}
+  ![get_next_line](https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png){: width="90" height="90"}
+  [![Fract-ol](https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png){: width="90" height="90"}](https://github.com/MaloP47/fract-ol)
+  [![Minitalk](https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png){: width="90" height="90"}](https://github.com/MaloP47/minitalk)
 
 <br>
 
-- [![push_swap](https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png)](https://github.com/MaloP47/push_swap)
+- [![push_swap](https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png){: width="90" height="90"}](https://github.com/MaloP47/push_swap)
 
 </div>
 
