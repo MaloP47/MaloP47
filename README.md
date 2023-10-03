@@ -13,7 +13,7 @@
 <a href="https://github.com/MaloP47/libft"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/libftm.png" alt="42 badge libft" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/born2beroote.png" alt="42 badge born2beroot" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_printfe.png" alt="42 badge ft_printf" width="90" height="90"/></a>
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linee.png" alt="42 badge get_next_line" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/get_next_line"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/get_next_linem.png" alt="42 badge get_next_line" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/fract-ol"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/fract-olm.png" alt="42 badge fract-ol" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png" alt="42 badge push_swap" width="90" height="90"/></a>
@@ -25,7 +25,7 @@
 
 <div align="left">
 
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/minishell_group"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
 
 </div>
 
