@@ -26,6 +26,12 @@
 <div align="left">
 
 <a href="https://github.com/MaloP47/minishell_group"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/netpracticen.png" alt="42 badge netpractice" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cppn.png" alt="42 badge cpp" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cub3dn.png" alt="42 badge cub3d" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minirtn.png" alt="42 badge minirt" width="90" height="90"/></a>
+
+
 
 </div>
 
