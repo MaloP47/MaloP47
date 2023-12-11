@@ -18,6 +18,7 @@
 <a href="https://github.com/MaloP47/minitalk"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minitalkm.png" alt="42 badge minitalk" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/push_swap"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/push_swapm.png" alt="42 badge push_swap" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/philosophers"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/philosopherse.png" alt="42 badge philosopher" width="90" height="90"/></a>
+<a href="https://https://github.com/MaloP47/miniHell"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelle.png" alt="42 badge minshell" width="90" height="90"/></a>
 
 </div>
 
@@ -25,7 +26,6 @@
 
 <div align="left">
 
-<a href="https://https://github.com/MaloP47/minishell_builtins_and_signals"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelln.png" alt="42 badge minshell" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/netpracticen.png" alt="42 badge netpractice" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/cpp"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cppn.png" alt="42 badge cpp" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cub3dn.png" alt="42 badge cub3d" width="90" height="90"/></a>
