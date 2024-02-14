@@ -20,7 +20,7 @@
 <a href="https://github.com/MaloP47/philosophers"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/philosopherse.png" alt="42 badge philosopher" width="90" height="90"/></a>
 <a href="https://github.com/MaloP47/miniHell"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelle.png" alt="42 badge minshell" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/netpracticee.png" alt="42 badge netpractice" width="90" height="90"/></a>
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cub3dm.png" alt="42 badge cub3d" width="90" height="90"/></a>
+<a href="https://github.com/OrioPrisco/cub3d"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cub3dm.png" alt="42 badge cub3d" width="90" height="90"/></a>
 
 </div>
 
