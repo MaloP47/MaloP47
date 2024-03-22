@@ -21,6 +21,7 @@
 <a href="https://github.com/MaloP47/miniHell"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/minishelle.png" alt="42 badge minshell" width="90" height="90"/></a>
 <img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/netpracticee.png" alt="42 badge netpractice" width="90" height="90"/></a>
 <a href="https://github.com/OrioPrisco/cub3d"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cub3dm.png" alt="42 badge cub3d" width="90" height="90"/></a>
+<a href="https://github.com/MaloP47/cpp"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cppe.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 </div>
 
@@ -28,9 +29,9 @@
 
 <div align="left">
 
-<a href="https://github.com/MaloP47/cpp"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cppn.png" alt="42 badge cpp" width="90" height="90"/></a>
-<a href="https://github.com/MaloP47/Inception"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/inceptionn.png" alt="42 badge cpp" width="90" height="90"/></a>
-
+<a href=https://github.com/MaloP47/Inception><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/inceptionn.png" alt="42 badge cpp" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/webservm.png" alt="42 badge cpp" width="90" height="90"/></a>
+<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_ircn.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 </div>
 
