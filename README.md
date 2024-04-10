@@ -30,8 +30,7 @@
 <div align="left">
 
 <a href=https://github.com/MaloP47/Inception><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/inceptionn.png" alt="42 badge cpp" width="90" height="90"/></a>
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/webservn.png" alt="42 badge cpp" width="90" height="90"/></a>
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_ircn.png" alt="42 badge cpp" width="90" height="90"/></a>
+<a href=https://github.com/MaloP47/webserv_42><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/webservn.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 </div>
 
