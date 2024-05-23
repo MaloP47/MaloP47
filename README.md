@@ -6,7 +6,7 @@
 
 </div>
 
-### School projects I already completed : 
+### I already completed these school projects : 
 
 <div align="left">
 
