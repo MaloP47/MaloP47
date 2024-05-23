@@ -31,7 +31,7 @@
 
 <div align="left">
 
-<img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_transcendencen.png" alt="42 badge cpp" width="90" height="90"/></a>
+<a href=https://github.com/MaloP47/ft_transcendence><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_transcendencen.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 
 </div>
