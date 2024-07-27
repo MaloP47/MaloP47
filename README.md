@@ -24,6 +24,7 @@
 <a href="https://github.com/MaloP47/cpp"><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/cppe.png" alt="42 badge cpp" width="90" height="90"/></a>
 <a href=https://github.com/MaloP47/webserv_42><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/webservm.png" alt="42 badge cpp" width="90" height="90"/></a>
 <a href=https://github.com/MaloP47/Inception><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/inceptione.png" alt="42 badge cpp" width="90" height="90"/></a>
+<a href=https://github.com/MaloP47/ft_transcendence><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_transcendencem.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 </div>
 
@@ -31,7 +32,6 @@
 
 <div align="left">
 
-<a href=https://github.com/MaloP47/ft_transcendence><img src="https://github.com/MaloP47/42-project-badges/blob/main/badges/ft_transcendencen.png" alt="42 badge cpp" width="90" height="90"/></a>
 
 
 </div>
