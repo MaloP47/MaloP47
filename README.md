@@ -6,7 +6,7 @@
 
 </div>
 
-### I already completed these school projects : 
+### 42Paris Common Core complete : 
 
 <div align="left">
 
