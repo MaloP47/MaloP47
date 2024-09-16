@@ -28,13 +28,26 @@
 
 </div>
 
-### School projects I'm working on :
+### Post CC projects :
 
 <div align="left">
 
 <a href="https://github.com/MaloP47/Python-for-Data-Science">Python for Data Science</a> - A comprehensive course focusing on the use of Python in the field of data science.
 
 </div>
+
+### School projects I'm working on :
+
+<div align="left">
+
+<a>Tokenizer</a> - Building at ethereum testnet token.
+<a>Piscine cybersecurity</a> - Introduction to cybersecurity.
+<a>Piscine mobile</a> - Introduction to the Flutter framework.
+<a>Piscine data science</a> - Introduction to the data science.
+
+</div>
+
+### 🏆🥈 2ème place Hackathon LCL x Google
 
 <!-- ### Hi there 👋
 
