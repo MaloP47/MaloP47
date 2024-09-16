@@ -47,7 +47,10 @@
 
 </div>
 
-### 🏆🥈 2ème place Hackathon LCL x Google - <a href="https://https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a>
+### 🏆🥈 2ème place Hackathon LCL x Google :
+<div>
+ <a href="https://https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a>
+</div>
 
 <!-- ### Hi there 👋
 
