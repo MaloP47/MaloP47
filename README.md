@@ -41,7 +41,7 @@
 <div align="left">
 
 <a>Tokenizer - Building at ethereum testnet token.</a>  
-<a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity - Introduction to cybersecurity.</a>  
+<a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.  
 <a>Piscine mobile - Introduction to the Flutter framework.</a>  
 <a>Piscine data science - Introduction to data science.</a>  
 
