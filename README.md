@@ -6,7 +6,7 @@
 
 </div>
 
-### 42Paris Common Core complete : 
+### **42Paris Common Core complete :** 
 
 <div align="left">
 
@@ -40,10 +40,10 @@
 
 <div align="left">
 
-<a>Tokenizer</a> - Building at ethereum testnet token.
-<a>Piscine cybersecurity</a> - Introduction to cybersecurity.
-<a>Piscine mobile</a> - Introduction to the Flutter framework.
-<a>Piscine data science</a> - Introduction to the data science.
+<a>Tokenizer</a> - Building at ethereum testnet token.</a>
+<a>Piscine cybersecurity</a> - Introduction to cybersecurity.</a>
+<a>Piscine mobile</a> - Introduction to the Flutter framework.</a>
+<a>Piscine data science</a> - Introduction to the data science.</a>
 
 </div>
 
