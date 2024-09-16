@@ -28,7 +28,7 @@
 
 </div>
 
-### Post CC projects :
+### **Post CC projects :**
 
 <div align="left">
 
@@ -36,18 +36,18 @@
 
 </div>
 
-### School projects I'm working on :
+### **School projects I'm working on :**
 
 <div align="left">
 
-<a>Tokenizer - Building at ethereum testnet token.</a>  
+<a href="https://github.com/MaloP47/Tokenizer">Tokenizer</a> - Building at ethereum testnet token.    
 <a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.  
 <a>Piscine mobile - Introduction to the Flutter framework.</a>  
 <a>Piscine data science - Introduction to data science.</a>  
 
 </div>
 
-### 🏆🥈 2ème place Hackathon LCL x Google -  <a href="https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a>
+### 🏆🥈 **2ème place Hackathon LCL x Google -  <a href="https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a>**
 
 <!-- ### Hi there 👋
 
