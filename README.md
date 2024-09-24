@@ -43,7 +43,6 @@
 <a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.  
 <a>Piscine mobile - Introduction to the React Native framework.</a>  
 <a>Piscine data science - Introduction to data science.</a>  
-
 </div>
 
 ### 🏆🥈 **2ème place Hackathon LCL x Google - <a href="https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a> - [Try BankBot](https://lcl-hackathon-e12-sbox-92e5.web.app/).
