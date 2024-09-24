@@ -32,7 +32,7 @@
 
 <div align="left">
 
-<a href="https://github.com/MaloP47/Python-for-Data-Science">Python for Data Science</a> - A comprehensive course focusing on the use of Python in the field of data science.
+<a href="https://github.com/MaloP47/Python-for-Data-Science">Python for Data Science</a> - A comprehensive course focusing on the use of Python in the field of data science.  
 <a href="https://github.com/MaloP47/Tokenizer">Tokenizer</a> - Building an ethereum testnet token.    
 
 </div>
