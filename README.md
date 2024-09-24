@@ -42,7 +42,9 @@
 <div align="left">
 <a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.<br>  
 <a href="https://github.com/MaloP47/Mobile">Piscine mobile</a> - Introduction to the React Native framework.</a><br> 
-<a>Piscine data science - Introduction to data science.</a><br> 
+<a>Piscine data science - Introduction to data science.</a><br>
+<a>Swifty-Companion - 42 API integation in a mobile app</a><br>
+<a>Darkly - Cybersecurity in the field of web</a><br>
 </div>
 
 ### 🏆🥈 **2ème place Hackathon LCL x Google - <a href="https://github.com/MaloP47/My-BankBot">LCL My-BankBot</a> - [Try BankBot](https://lcl-hackathon-e12-sbox-92e5.web.app/).
