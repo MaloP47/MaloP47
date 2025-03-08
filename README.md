@@ -33,7 +33,8 @@
 <div align="left">
 
 <a href="https://github.com/MaloP47/Python-for-Data-Science">Python for Data Science</a> - A comprehensive course focusing on the use of Python in the field of data science.  
-<a href="https://github.com/MaloP47/Tokenizer">Tokenizer</a> - Building an ethereum testnet token.    
+<a href="https://github.com/MaloP47/Tokenizer">Tokenizer</a> - Building an ethereum testnet token.
+<a href="https://github.com/MaloP47/InceptionOfThings">Inception of things<a/> - System admninistration and orchestration with kubernetes and docker</a>
 
 </div>
 
@@ -44,8 +45,8 @@
 <a href="https://github.com/MaloP47/Mobile">Piscine mobile</a> - Introduction to the React Native framework.</a><br> 
 <a>Piscine data science - Introduction to data science.</a><br>
 <a>Swifty - Companion - 42 API integation in a mobile app.</a><br>
-<a>Darkly - Cybersecurity in the field of web.</a><br>
-<a href="https://github.com/MaloP47/InceptionOfThings">Inception of things<a/> - System admninistration and orchestration with kubernetes and docker</a><br>
+<a href="https://github.com/MaloP47/Darkly">Darkly</a> - Cybersecurity in the field of web and OWASP concepts</a><br>
+
 
 </div>
 
