@@ -44,7 +44,7 @@
 <a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.<br>  
 <a href="https://github.com/MaloP47/Mobile">Piscine mobile</a> - Introduction to the React Native framework.</a><br> 
 <a href="https://github.com/MaloP47/PiscineDataScience">Piscine data science</a> - Introduction to data science.</a><br>
-<a>Swifty - Companion - 42 API integation in a mobile app.</a><br>
+<a href="https://github.com/MaloP47/swifty-companion">Swifty - Companion - 42 API integation in a mobile app.</a><br>
 <a href="https://github.com/MaloP47/Darkly">Darkly</a> - Cybersecurity in the field of web and OWASP concepts</a><br>
 
 
