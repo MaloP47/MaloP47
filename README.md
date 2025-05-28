@@ -46,6 +46,7 @@
 <div align="left">
 <a href="https://github.com/MaloP47/Cybersecurity">Piscine cybersecurity</a> - Introduction to cybersecurity.<br>  
 <a href="https://github.com/MaloP47/PiscineDataScience">Piscine data science</a> - Introduction to data science.</a><br>
+<a href="https://github.com/MaloP47/cloud-1">Cloud-1</a> - Automated deployement on the cloud.</a><br>
 
 
 </div>
